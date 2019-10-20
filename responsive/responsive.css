@@ -1,0 +1,160 @@
+
+@media (max-width: 1199px) and (min-width: 1024px) { }
+@media (max-width: 1023px) and (min-width: 992px) { }
+@media (max-width: 991px) and (min-width: 768px) { }
+@media (max-width: 767px) and (min-width: 685px) { }
+@media (max-width: 684px) and (min-width: 568px) { }
+@media (max-width: 567px) and (min-width: 480px) {
+
+.col-md-7 {
+    display: none;
+}
+.col-md-3 {
+    display: none;
+}
+h1{
+	font-size: 15px;
+}
+.searchbtn {
+    width: 232px;
+    }
+    .row{
+    	margin-left: 0px;
+    }
+    .page1 {
+    background-color: #0B173B;
+    color: white;
+    /* width: 100%; */
+    height: 99vh;
+}
+.foot3{
+	padding-top: 0px;
+	    height: 16vh;
+}
+.h3, h3 {
+    /* font-size: 0.75rem; */
+    font-size: small;
+    margin-top: 20px;
+}
+.btn7 {
+    float: right;
+    background-color: #303030;
+    color: white;
+    border: none;
+    margin-right: 56px;
+    height: 47px;
+    font-size: small;
+    margin-top: 5px;
+}
+.foot{
+	height: 96vh;
+}
+
+ }
+@media (max-width: 479px) and (min-width: 320px) {
+	
+
+.col-md-7 {
+    display: none;
+}
+.column {
+padding-top:0px;
+}
+.nav-btn {
+    display: none;
+}
+.searchbtn {
+width: 245px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 10vh;
+    border: none;
+}
+h1{
+	font-size: 15px;
+}
+.row.foot {
+    height: 100%;
+    
+}
+ul.navbar-nav {
+    width: 398px;
+}
+.cent {
+    padding-top: 5%;
+    
+}
+.map {
+    width: 380px;
+}
+.logo3 {
+    display: flex;
+    justify-content: center;
+    width: 383px;
+}
+
+.carousel {
+    position: relative;
+    
+}
+.row{
+	margin-left: 0px;
+}
+
+.page1 {
+    background-color: #0B173B;
+    color: white;
+  
+    height: 118vh;
+    font-size: x-small;
+}
+.foot3 {
+    background-color: #3498DB;
+    color: white;
+    height: 18vh;
+    
+    padding-top: 2%;
+    padding-left: 5%;
+}
+.h3, h3 {
+    font-size: 0.75rem;
+}
+.btn7 {
+    float: right;
+    background-color: #303030;
+    color: white;
+    border: none;
+    margin-right: 56px;
+    height: 47px;
+    font-size: small;
+    margin-top: -5px;
+}
+.image2 {
+    margin-left: 1%;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    /* margin-right: -15px; */
+    /* margin-left: -15px; */
+}
+.btn button{
+	display: none!important;
+
+}
+.page1 {
+    background-color: #0B173B;
+    color: white;
+    /* width: 398px; */
+    height: 118vh;
+    font-size: x-small;
+}
+.container-fluid {
+   
+    margin-right: auto;
+    margin-left: auto;
+}
+}
